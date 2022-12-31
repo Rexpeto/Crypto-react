@@ -10,7 +10,6 @@ import GetStarted from './GetStarted';
 import Hero from './Hero';
 import Negocios from './Negocios';
 import Testimonios from './Testimonios';
-import Tratos from './Tratos';
 import Footer from './Footer';
 
 export {
@@ -26,6 +25,5 @@ export {
     Hero,
     Negocios,
     Testimonios,
-    Tratos,
     Footer,
 }
