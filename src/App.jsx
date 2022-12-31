@@ -2,18 +2,14 @@ import styles from "./style";
 
 import {
     NavBar,
-    Button,
     Clientes,
     Factura,
     Estadistica,
     CTA,
-    FeedbackCard,
     CardDeal,
-    GetStarted,
     Hero,
     Negocios,
     Testimonios,
-    Tratos,
     Footer,
 } from "./components";
 
@@ -41,6 +37,7 @@ const App = () => {
                     <Factura/>
                     <CardDeal/>
                     <Testimonios/>
+                    <Clientes/>
                     <CTA/>
                     <Footer/>
                 </div>
